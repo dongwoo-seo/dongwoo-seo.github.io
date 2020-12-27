@@ -1,7 +1,7 @@
 ---
-title: 'Category Test1'
+title: '뭘써볼까'
 date: 2020-07-02 16:21:13
-category: 'category1'
+category: 'java'
 draft: false
 ---
 

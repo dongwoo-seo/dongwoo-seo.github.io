@@ -52,7 +52,9 @@ body.dark {
       color: $dark-middle-font-color;
     }
     &:hover {
-      text-shadow: $dark-hover-text-shadow;
+      text-shadow: $light-hover-text-shadow;
+      background-color: #ededee28; /*필요없을땐 지워도됨*/
+      border: 1px solid #ffffff; /*필요없을땐 지워도됨*/
     }
   }
 
